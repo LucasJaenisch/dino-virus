@@ -1,238 +1,11 @@
 fileFormatVersion: 2
-guid: 1ce1bdb9bbd40fb4ea9f099d3ad6446c
+guid: f1a1d44aa917d1546a4d6cc8d92de526
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Armature
-    100002: armdown_l
-    100004: armdown_r
-    100006: armup_l
-    100008: armup_r
-    100010: Bone
-    100012: Bone_001
-    100014: Bone_002
-    100016: Bone_003
-    100018: Bone_004
-    100020: Bone_005
-    100022: Bone_006
-    100024: Bone_007
-    100026: Bone_008
-    100028: Bone_009
-    100030: Bone_010
-    100032: Bone_011
-    100034: Bone_012
-    100036: Bone_013
-    100038: Bone_014
-    100040: Bone_015
-    100042: Bone_016
-    100044: Bone_017
-    100046: Bone_018
-    100048: Bone_019
-    100050: Bone_020
-    100052: Bone_021
-    100054: Bone_022
-    100056: Bone_023
-    100058: Bone_024
-    100060: Bone_025
-    100062: Bone_030
-    100064: Bone_058
-    100066: Bone_059
-    100068: Bone_060
-    100070: Bone_061
-    100072: Bone_062
-    100074: Bone_063
-    100076: Bone_064
-    100078: Bone_066
-    100080: Bone_067
-    100082: Cube
-    100084: Cube_001
-    100086: eye_l
-    100088: eye_r
-    100090: foot_l
-    100092: foot_r
-    100094: footfinger1_l
-    100096: footfinger1_r
-    100098: footfinger2_l
-    100100: footfinger2_r
-    100102: footfinger3_l
-    100104: footfinger3_r
-    100106: footfinger4_l
-    100108: footfinger4_r
-    100110: footfinger5_l
-    100112: footfinger5_r
-    100114: footfinger6_l
-    100116: footfinger6_r
-    100118: footfinger7_l
-    100120: footfinger7_r
-    100122: footfinger8_l
-    100124: footfinger8_r
-    100126: footfinger9_l
-    100128: footfinger9_r
-    100130: hand_l
-    100132: hand_r
-    100134: handfinger10_l
-    100136: handfinger10_r
-    100138: handfinger11_l
-    100140: handfinger11_r
-    100142: handfinger1_l
-    100144: handfinger1_r
-    100146: handfinger2_l
-    100148: handfinger2_r
-    100150: handfinger3_l
-    100152: handfinger3_r
-    100154: handfinger4_l
-    100156: handfinger4_r
-    100158: handfinger5_l
-    100160: handfinger5_r
-    100162: handfinger6_l
-    100164: handfinger6_r
-    100166: handfinger7_l
-    100168: handfinger7_r
-    100170: handfinger8_l
-    100172: handfinger8_r
-    100174: handfinger9_l
-    100176: handfinger9_r
-    100178: legdown_l
-    100180: legdown_r
-    100182: legup_l
-    100184: legup_r
-    100186: //RootNode
-    100188: shoulder_l
-    100190: shoulder_r
-    100192: wing1_l
-    100194: wing1_r
-    100196: wing2_l
-    100198: wing2_r
-    100200: wing3_l
-    100202: wing3_r
-    100204: wing4_l
-    100206: wing4_r
-    100208: wing5_l
-    100210: wing5_r
-    400000: Armature
-    400002: armdown_l
-    400004: armdown_r
-    400006: armup_l
-    400008: armup_r
-    400010: Bone
-    400012: Bone_001
-    400014: Bone_002
-    400016: Bone_003
-    400018: Bone_004
-    400020: Bone_005
-    400022: Bone_006
-    400024: Bone_007
-    400026: Bone_008
-    400028: Bone_009
-    400030: Bone_010
-    400032: Bone_011
-    400034: Bone_012
-    400036: Bone_013
-    400038: Bone_014
-    400040: Bone_015
-    400042: Bone_016
-    400044: Bone_017
-    400046: Bone_018
-    400048: Bone_019
-    400050: Bone_020
-    400052: Bone_021
-    400054: Bone_022
-    400056: Bone_023
-    400058: Bone_024
-    400060: Bone_025
-    400062: Bone_030
-    400064: Bone_058
-    400066: Bone_059
-    400068: Bone_060
-    400070: Bone_061
-    400072: Bone_062
-    400074: Bone_063
-    400076: Bone_064
-    400078: Bone_066
-    400080: Bone_067
-    400082: Cube
-    400084: Cube_001
-    400086: eye_l
-    400088: eye_r
-    400090: foot_l
-    400092: foot_r
-    400094: footfinger1_l
-    400096: footfinger1_r
-    400098: footfinger2_l
-    400100: footfinger2_r
-    400102: footfinger3_l
-    400104: footfinger3_r
-    400106: footfinger4_l
-    400108: footfinger4_r
-    400110: footfinger5_l
-    400112: footfinger5_r
-    400114: footfinger6_l
-    400116: footfinger6_r
-    400118: footfinger7_l
-    400120: footfinger7_r
-    400122: footfinger8_l
-    400124: footfinger8_r
-    400126: footfinger9_l
-    400128: footfinger9_r
-    400130: hand_l
-    400132: hand_r
-    400134: handfinger10_l
-    400136: handfinger10_r
-    400138: handfinger11_l
-    400140: handfinger11_r
-    400142: handfinger1_l
-    400144: handfinger1_r
-    400146: handfinger2_l
-    400148: handfinger2_r
-    400150: handfinger3_l
-    400152: handfinger3_r
-    400154: handfinger4_l
-    400156: handfinger4_r
-    400158: handfinger5_l
-    400160: handfinger5_r
-    400162: handfinger6_l
-    400164: handfinger6_r
-    400166: handfinger7_l
-    400168: handfinger7_r
-    400170: handfinger8_l
-    400172: handfinger8_r
-    400174: handfinger9_l
-    400176: handfinger9_r
-    400178: legdown_l
-    400180: legdown_r
-    400182: legup_l
-    400184: legup_r
-    400186: //RootNode
-    400188: shoulder_l
-    400190: shoulder_r
-    400192: wing1_l
-    400194: wing1_r
-    400196: wing2_l
-    400198: wing2_r
-    400200: wing3_l
-    400202: wing3_r
-    400204: wing4_l
-    400206: wing4_r
-    400208: wing5_l
-    400210: wing5_r
-    2100000: Material_010
-    2100002: Material_011
-    2100004: Material_011__carnocolor
-    2100006: Material_010__carnocolor
-    2100008: Material_005
-    2100010: Material_003
-    2100012: Material_008
-    2100014: Material_009
-    2100016: Material_002
-    2100018: Material_012
-    2100020: Material_006__carnocolor
-    2100022: Material__carnocolor_001
-    4300000: Cube_001
-    4300002: Cube
-    7400000: Default Take
-    9500000: //RootNode
-    13700000: Cube
-    13700002: Cube_001
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Default Take
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -260,8 +33,37 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
-    isReadable: 1
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      internalID: 1989289236423521904
+      firstFrame: 5
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -275,18 +77,19 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -295,10 +98,11 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -308,6 +112,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

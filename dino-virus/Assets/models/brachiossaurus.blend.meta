@@ -1,108 +1,14 @@
 fileFormatVersion: 2
-guid: 93199c919098aff4bbad4bbc591d2f6e
+guid: f74f94b377a569343bbb3b7e9d3bd87e
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Armature
-    100002: ArmDown_L
-    100004: ArmDown_R
-    100006: ArmUp_L
-    100008: ArmUp_R
-    100010: Bone
-    100012: Bone_001
-    100014: Bone_002
-    100016: Bone_003
-    100018: Bone_004
-    100020: Bone_005
-    100022: Bone_006
-    100024: Bone_007
-    100026: Bone_008
-    100028: Bone_009
-    100030: Bone_010
-    100032: Bone_011
-    100034: Bone_012
-    100036: Bone_013
-    100038: Bone_014
-    100040: Bone_015
-    100042: Bone_016
-    100044: Bone_017
-    100046: Bone_018
-    100048: Bone_019
-    100050: Bone_020
-    100052: Bone_021
-    100054: Bone_022
-    100056: Bone_023
-    100058: Bone_024
-    100060: Bone_025
-    100062: //RootNode
-    100064: Cube
-    100066: Foot_L
-    100068: Foot_R
-    100070: FootToes_L
-    100072: FootToes_R
-    100074: Hand_L
-    100076: Hand_R
-    100078: HandToes_L
-    100080: HandToes_R
-    100082: LegDown_L
-    100084: LegDown_R
-    100086: LegUp_L
-    100088: LegUp_R
-    100090: Shoulder_L
-    100092: Shoulder_R
-    400000: Armature
-    400002: ArmDown_L
-    400004: ArmDown_R
-    400006: ArmUp_L
-    400008: ArmUp_R
-    400010: Bone
-    400012: Bone_001
-    400014: Bone_002
-    400016: Bone_003
-    400018: Bone_004
-    400020: Bone_005
-    400022: Bone_006
-    400024: Bone_007
-    400026: Bone_008
-    400028: Bone_009
-    400030: Bone_010
-    400032: Bone_011
-    400034: Bone_012
-    400036: Bone_013
-    400038: Bone_014
-    400040: Bone_015
-    400042: Bone_016
-    400044: Bone_017
-    400046: Bone_018
-    400048: Bone_019
-    400050: Bone_020
-    400052: Bone_021
-    400054: Bone_022
-    400056: Bone_023
-    400058: Bone_024
-    400060: Bone_025
-    400062: //RootNode
-    400064: Cube
-    400066: Foot_L
-    400068: Foot_R
-    400070: FootToes_L
-    400072: FootToes_R
-    400074: Hand_L
-    400076: Hand_R
-    400078: HandToes_L
-    400080: HandToes_R
-    400082: LegDown_L
-    400084: LegDown_R
-    400086: LegUp_L
-    400088: LegUp_R
-    400090: Shoulder_L
-    400092: Shoulder_R
-    2100000: Material
-    4300000: Cube
-    7400000: Default Take
-    7400002: ArmatureAction
-    9500000: //RootNode
-    13700000: Cube
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Default Take
+  - first:
+      74: -3880581976594992817
+    second: ArmatureAction
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -130,8 +36,66 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
-    isReadable: 1
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      internalID: 1989289236423521904
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      internalID: -3880581976594992817
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -145,18 +109,19 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -165,10 +130,11 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -178,6 +144,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
