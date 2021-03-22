@@ -1,5 +1,5 @@
-![Dino Virus Main Menu](https://https://github.com/LucasJaenisch/dino-virus/blob/master/road-map/dinomenu.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Dino Virus Main Menu](https://raw.githubusercontent.com/LucasJaenisch/dino-virus/master/road-map/dinomenu.png)
+
 
 # dino-virus
 
