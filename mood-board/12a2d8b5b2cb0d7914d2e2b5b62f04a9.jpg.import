@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/12a2d8b5b2cb0d7914d2e2b5b62f04a9.jpg-847d6bf5509ec397477272c079cac66c.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://mood-board/12a2d8b5b2cb0d7914d2e2b5b62f04a9.jpg"
+dest_files=[ "res://.import/12a2d8b5b2cb0d7914d2e2b5b62f04a9.jpg-847d6bf5509ec397477272c079cac66c.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
